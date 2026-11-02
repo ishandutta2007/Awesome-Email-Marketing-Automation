@@ -48,9 +48,9 @@ Below is a breakdown of category-leading commercial email marketing platforms, s
 
 ## 💻 Open-Source GitHub Projects
 
-Curated self-hosted marketing platforms, newsletter engines, and delivery infrastructures. Badges display real-time GitHub stargazers and link directly to stargazers pages. Sorted in descending order by GitHub stars:
+Curated self-hosted marketing platforms, newsletter engines, and delivery infrastructures. Badges display real-time GitHub stargazers and link directly to stargazers pages. Sorted in descending order by GitHub_Stars:
 
-| Project | Stars | Primary Architecture | Core Capabilities | Deployment |
+| Project | GitHub_Stars | Primary Architecture | Core Capabilities | Deployment |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Novu](https://github.com/novuhq/novu)** | [![Novu Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers) | Node.js / NestJS / Redis / MongoDB | Unified notification workflow orchestration across Email, SMS, Push, Chat, and In-App inbox components | Docker, Helm, Cloud |
 | **[Listmonk](https://github.com/knadh/listmonk)** | [![Listmonk Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers) | Go / PostgreSQL (Single Binary) | High-performance newsletter engine sending millions of emails with minimal CPU/RAM (~57MB), SQL-based segmentation, Go templating | Single Binary, Docker |
@@ -89,7 +89,7 @@ Understanding the differentiation between open-source components prevents operat
 Contributions to expand this list are warmly welcomed! Please read the contribution guidelines:
 
 1. 🍴 Fork the repository.
-2. 📝 Add your recommended platform or open-source tool ensuring all required columns (Pricing, Free Tier limits, License, GitHub stars) are provided.
+2. 📝 Add your recommended platform or open-source tool ensuring all required columns (Pricing, Free Tier limits, License, GitHub_Stars) are provided.
 3. 🔍 Verify links, spelling, and factual documentation.
 4. 🚀 Submit a Pull Request with a clear description of the project.
 
